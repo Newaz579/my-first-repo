@@ -1,0 +1,16 @@
+.h1-tag{
+    background-color: crimson;
+    color: black;
+}
+.h2-tag{
+    color: red;
+    background-color: yellow;
+}
+p{
+    color: green;
+}
+.div-color{
+    height: 500px;
+    width: 300px;
+    border-radius: 20px;
+}
